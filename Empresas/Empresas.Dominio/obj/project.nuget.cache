@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "f2B6Xi9TQBf10qXdLZijQmmwak8KRbhd5iYzFn/Z9+5+8esLWHkmFIU/Xh2WAWwHSQxbo+p7t5JQH3G+hhfwXw==",
+  "dgSpecHash": "cA7Qh6w9tM8OSb1hE/+VrWf5u5g6vkz8xFNTPTxZ/PQxFweMFVqURs66aPqFtdsxpEbtbTX4NHgsivpLbfmAyQ==",
   "success": true,
   "projectFilePath": "D:\\Limpeza\\Deal\\Treinamentos\\Projeto Baiao\\Empresas\\Projeto 2\\Empresas\\Empresas.Dominio\\Empresas.Dominio.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Camila\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\Camila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
   "logs": []
 }
