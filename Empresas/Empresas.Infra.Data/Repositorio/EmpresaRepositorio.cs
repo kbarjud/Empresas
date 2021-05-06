@@ -56,6 +56,11 @@ namespace Empresas.Infra.Data.Repositorio
             }
         }
 
+        public static IEnumerable<Empresa> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
         public void Alterar(Empresa empresas)
         {
             try

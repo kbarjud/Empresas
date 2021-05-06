@@ -24,6 +24,7 @@ namespace Empresas.Dominio.Handlers
             try
             {
                 //fazer validaçãoo do command
+
                 Empresa empresa = new Empresa(
                     comando.CNPJ,
                     comando.Inscricao_Estadual,
@@ -138,7 +139,7 @@ namespace Empresas.Dominio.Handlers
         {
             try
             {
-                //fazer validação do id
+                //fazer validação do cnpj
 
                 _repositorio.Excluir(cnpj);
 

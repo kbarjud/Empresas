@@ -17,10 +17,11 @@ namespace Empresas.Dominio.Commands.Empresas.Input
         public string CEP { get; set; }
         public string Bairro { get; set; }
         public string Municipio { get; set; }
-        public string UF { get; set; } 
-        public string Status { get; set; } 
-        public DateTime Data_Abertura { get; set; } 
-        public DateTime? Data_Modificacao { get; set; } 
-        public DateTime? Data_Encerramento { get; set; } 
+        public string UF { get; set; }
+        public string Status { get; set; }
+        public DateTime Data_Abertura { get; set; }
+        public DateTime? Data_Modificacao { get; set; }
+        public DateTime? Data_Encerramento { get; set; }
+
     }
 }
